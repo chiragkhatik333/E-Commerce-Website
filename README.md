@@ -11,6 +11,7 @@ USER = SignUp | Login | logOut | Add To Cart.
 Seller = SignUp | Login | logOut | Add Product | Watch products(upload product photos).
 Logistic = SignUp | Login | logOut | Recieve Order | PickUp Order.
 Admin = Login |logOut | See activity of all remaing department | Block | Unblock.
+
 ScreenShots of Our WEB-PAGE :
 
 
